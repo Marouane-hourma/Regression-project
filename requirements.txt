@@ -57,3 +57,4 @@ seaborn==0.13.0
 smmap==5.0.1
 tenacity==8.2.3
 tensorflow== 2.15.0rc1
+tensorboard==2.15
