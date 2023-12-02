@@ -62,7 +62,7 @@ tensorboard==2.14.1
 tensorboard-data-server==0.7.1
 
 tensorflow== 2.15.0rc1
-tensorflow-intel==2.2.0rc4
+tensorflow-intel==0.0.1
 
 tensorflow-estimator==2.14.0
 
