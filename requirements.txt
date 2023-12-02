@@ -1,5 +1,5 @@
 absl-py==2.0.0
-Python==3.9
+
 altair==5.1.2
 astunparse==1.6.3
 blinker==1.6.3
