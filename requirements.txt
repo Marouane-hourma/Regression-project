@@ -58,7 +58,7 @@ seaborn==0.13.0
 smmap==5.0.1
 streamlit==1.28.2
 tenacity==8.2.3
-tensorboard==2.14.1
+tensorboard==2.15
 tensorboard-data-server==0.7.1
 
 tensorflow== 2.15.0rc1
