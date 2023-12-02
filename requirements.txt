@@ -60,7 +60,8 @@ streamlit==1.28.2
 tenacity==8.2.3
 tensorboard==2.14.1
 tensorboard-data-server==0.7.1
-tensorflow==2.2.0rc4
+
+tensorflow== 2.15.0rc1
 tensorflow-intel==2.2.0rc4
 
 tensorflow-estimator==2.14.0
